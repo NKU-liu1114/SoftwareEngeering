@@ -5,8 +5,8 @@
 <web-app>
     <display-name>Archetype Created Web Application</display-name>
 <filter>
-    <filter-name>JFinalFilter</filter-name>//名字随便起，最好是有意义的
-    <filter-class>com.jfinal.core.JFinalFilter</filter-class>//固定的写法
+    <filter-name>JFinalFilter</filter-name>
+    <filter-class>com.jfinal.core.JFinalFilter</filter-class>
 
     <init-param>
         <param-name>configClass</param-name>
